@@ -1,10 +1,10 @@
 mvmv
 ====
 
-.. image:: https://pypip.in/v/mvmv/badge.png
+.. image:: https://img.shields.io/pypi/v/mvmv.svg
     :target: http://pypi.python.org/pypi/mvmv/  
 
-.. image:: https://pypip.in/d/mvmv/badge.png 
+.. image:: https://img.shields.io/pypi/dm/mvmv.svg 
     :target: http://pypi.python.org/pypi/mvmv/ 
 
 
